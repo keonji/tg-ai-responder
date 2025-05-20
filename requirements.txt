@@ -1,0 +1,9 @@
+python-telegram-bot>=20.7
+vosk>=0.3.45
+transformers>=4.37.0
+torch>=2.2.0
+sentencepiece>=0.1.99
+nest-asyncio>=1.6.0
+python-dotenv>=1.0.0
+httpx>=0.26.0
+tzlocal>=5.2
